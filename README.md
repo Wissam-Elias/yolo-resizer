@@ -2,5 +2,6 @@ This Python script is designed to resize images to a specific width and height, 
 It utilizes the Python Imaging Library (PIL) to perform the resizing operation.
 
 Requirements
-Python 3.x
+Python 3.xو
+
 PIL (Python Imaging Library)
